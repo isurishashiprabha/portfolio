@@ -63,5 +63,7 @@ Visit the live portfolio website through GitHub Pages.
 ## Author
 
 Isuri Shashiprabha,
+
 BSc (Hons) IT in Cyber Security Student,
+
 Sri Lanka.
